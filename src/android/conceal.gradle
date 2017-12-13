@@ -3,7 +3,7 @@ repositories {
 }
 
 dependencies {
-  compile('com.facebook.conceal:conceal:1.0.0@aar') {
+  compile('com.facebook.conceal:conceal:2.0.1@aar') {
     transitive = true
   }
 }
